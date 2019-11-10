@@ -1,7 +1,6 @@
 # Price-Index-Regression-
-Python code to predict housing price index using Ordinary Least Squares
+Python code to predict housing price index using Ordinary Least Squares. Feature Description is below
 
-## Feature Description
 
 <table>
     <thead>
